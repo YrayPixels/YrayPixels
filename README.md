@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moses Erhinyodavwe</h1>
-<h3 align="center">I am a passionate Developer, This is my code story</h3>
+<h3 align="center">I am a front-end developer transitioning into a fullstack dev, trained with Design concept and thinking, I am also an exceptional Graphics design and a Front-end Developer. This is my CodeStory</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yraypixels" alt="yraypixels" /></a> </p>
 
