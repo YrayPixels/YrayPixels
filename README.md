@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yraypixels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yraypixels" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/moses-erhinyodavwe-6b52b116a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moses-erhinyodavwe-6b52b116a" height="30" width="40" /></a>
-<a href="https://fb.com/moses erhinyodavwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moses erhinyodavwe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/moses-erhinyodavwe-6b52b116a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moses-erhinyodavwe-6b52b116a" height="30" width="40" /></a>
+<a href="https://fb.com/moses_erhinyodavwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moses erhinyodavwe" height="30" width="40" /></a>
 <a href="https://instagram.com/rary_mkf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rary_mkf" height="30" width="40" /></a>
 </p>
 
