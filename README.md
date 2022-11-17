@@ -2,7 +2,7 @@
 <h3 align="center">I am a front-end developer transitioning into a fullstack dev, trained with Design concept and thinking, I am also an exceptional Graphics design and a Front-end Developer. This is my CodeStory</h3>
 
 <p align="center"><img src="https://www.codewars.com/users/YrayPixels/badges/large" alt="CodeWars"></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yraypixels" alt="yraypixels" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yraypixels" alt="yraypixels" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [yray.netlify.app](yray.netlify.app)
 
@@ -20,8 +20,8 @@
 <a href="https://instagram.com/rary_mkf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rary_mkf" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
