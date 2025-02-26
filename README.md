@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moses Erhinyodavwe</h1>
 <h3 align="center">I am a FullStack developer, trained with Design concept and thinking, I have also worked as a Graphics designer, an animator and VR Specialist. This is my CodeStory</h3>
-
-<p align="center"><img src="https://www.codewars.com/users/YrayPixels/badges/large" alt="CodeWars"></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yraypixels" alt="yraypixels" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [yray.labs.fun](yraylabs.fun)
@@ -31,7 +29,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yraypixels&show_icons=true&locale=en&layout=compact" alt="yraypixels" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yraypixels&show_icons=true&locale=en" alt="yraypixels" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yraypixels&" alt="yraypixels" /></p>
