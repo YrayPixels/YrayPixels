@@ -4,9 +4,7 @@
 <p align="center"><img src="https://www.codewars.com/users/YrayPixels/badges/large" alt="CodeWars"></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yraypixels" alt="yraypixels" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [yray.netlify.app](yray.netlify.app)
-
-- 💬 Ask me about **Bootstrap, React, Nextjs, or any Front-End stack**
+- 👨‍💻 All of my projects are available at [yray.labs.fun](yraylabs.fun)
 
 - 📫 How to reach me **moseserhinyodavwe2@gmail.com**
 
