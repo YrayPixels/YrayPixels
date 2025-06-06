@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moses Erhinyodavwe</h1>
-<h3 align="center">I am a FullStack developer, trained with Design concept and thinking, I have also worked as a Graphics designer, an animator and VR Specialist. This is my CodeStory</h3>
+<h3 align="center">I am a FullStack developer, trained with Design concept and thinking, I put user experience as priority. </h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yraypixels" alt="yraypixels" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [yray.labs.fun](yraylabs.fun)
