@@ -15,3 +15,8 @@
 <a href="https://fb.com/moses_erhinyodavwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moses erhinyodavwe" height="30" width="40" /></a>
 <a href="https://instagram.com/rary_mkf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rary_mkf" height="30" width="40" /></a>
 </p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yraypixels&show_icons=true&locale=en&layout=compact" alt="yraypixels" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yraypixels&" alt="yraypixels" /></p>
